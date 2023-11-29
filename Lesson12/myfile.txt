@@ -1,0 +1,1 @@
+Hello Python !This is new content added to myfile.txt
